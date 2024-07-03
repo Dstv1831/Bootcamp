@@ -1,0 +1,2 @@
+website that provides information on dog-friendly cafes, such as details about coffee quality, internet access, and location. 
+The data is stored in a CSV file, and there's a secret route location at "/add" for adding your favorite dog-friendly cafe to the list.
