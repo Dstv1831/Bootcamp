@@ -1,0 +1,5 @@
+Website featuring comprehensive information on Top animes and equipped with a highly intuitive user interface.
+
+The blog provides users with the capability to search for anime using the search bar, 
+leveraging an API to retrieve desired data including release year, synopsis, and poster. Moreover, users have the ability to customize their own rankings,
+with the system automatically assigning ranks based on the provided scores.
